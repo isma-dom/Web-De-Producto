@@ -1,1 +1,1 @@
-Diseño y desarrollo de una landing page moderna para un producto de software. La estructura de la página utiliza múltiples secciones (Header, Features, Footer). Se implementó jQuery para crear una animación de fadeIn(2000) al cargar la página y se utilizaron fondos y gradientes avanzados con CSS. Muestra competencia en diseño de layouts complejos y uso de bibliotecas JS.
+
